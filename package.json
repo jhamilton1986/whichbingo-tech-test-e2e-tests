@@ -1,0 +1,16 @@
+{
+  "name": "whichbingo-tech-test-e2e-tests",
+  "version": "1.0.0",
+  "description": "End-to-End tests for WhichBingo Tech Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/nightwatch --config nightwatch.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^2.34.1",
+    "nightwatch": "^0.9.19",
+    "selenium-server": "^3.8.1"
+  }
+}
