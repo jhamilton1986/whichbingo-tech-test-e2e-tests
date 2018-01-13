@@ -7,6 +7,7 @@ This repository contains End-to-End tests for [WhichBingo Tech Test](https://git
 - [NodeJS](https://nodejs.org/en/)
 - [Java](https://www.java.com/en/download/manual.jsp)
   - Required by [Selenium Webdriver](http://www.seleniumhq.org)
+- [Google Chrome](https://www.google.com/chrome/)
 
 ### Setup
 1. In the root of the project, run `npm i` to install NPM dependencies
